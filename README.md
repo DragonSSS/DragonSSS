@@ -1,8 +1,4 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DragonSSS" alt="DragonSSS" />
-</p>
-
-## Hello World!
+## Hello World! ![](https://komarev.com/ghpvc/?username=DragonSSS)
 
 ### I am Wilson Song
 - A Software Engineer
