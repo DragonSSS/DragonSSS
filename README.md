@@ -1,6 +1,7 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DragonSSS&color=grey" alt="DragonSSS" />
+  <img src="https://komarev.com/ghpvc/?username=DragonSSS" alt="DragonSSS" />
 </p>
+
 ### Hi there 👋
 
 <!--
