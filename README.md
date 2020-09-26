@@ -9,8 +9,8 @@
 <a href="https://github.com/dragonsss">
   <img align="left" alt="Wilson's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-![](https://komarev.com/ghpvc/?username=DragonSSS&color=grey&style=flat-square)
 <br />
+![](https://komarev.com/ghpvc/?username=DragonSSS&color=grey&style=flat-square)
 
 ### About
 - A Software Engineer
