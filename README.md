@@ -1,4 +1,4 @@
-## Wilson Song ![](https://komarev.com/ghpvc/?username=DragonSSS&color=grey&style=flat-square)
+## Wilson Song 
 
 <a href="https://twitter.com/DragonSwl">
   <img align="left" alt="Wilson's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -9,6 +9,7 @@
 <a href="https://github.com/dragonsss">
   <img align="left" alt="Wilson's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+![](https://komarev.com/ghpvc/?username=DragonSSS&color=grey&style=flat-square)
 <br />
 
 ### About
