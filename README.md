@@ -13,6 +13,7 @@
 
 ### About
 - A Software Engineer
+- Focuses on backend and has obsession with coding/algorithm/architecture...
 
 ![](https://komarev.com/ghpvc/?username=DragonSSS&color=grey&style=flat-square)
 <!--
