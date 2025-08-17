@@ -16,6 +16,14 @@
 - Focuses on backend and has obsession with coding/algorithm/architecture... :raising_hand:
 
 ![](https://komarev.com/ghpvc/?username=DragonSSS&color=grey&style=flat-square)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
+  <img alt="Breakout Game" src="images/breakout-light.svg">
+</picture>
 <!--
 **DragonSSS/DragonSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
